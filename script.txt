@@ -1,0 +1,7 @@
+#!/bin/bash
+cd foldername3
+mkdir foldername4 foldername5 foldername6
+cd foldername4
+touch name6.txt name7.txt name8.txt name9.json name10.json
+ls -la
+mv name6.txt name9.json ~/linux_terminal/foldername3/foldername5
